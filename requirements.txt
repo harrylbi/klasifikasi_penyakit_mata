@@ -1,0 +1,9 @@
+gradio
+notebook
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tf-nightly
+
