@@ -1,0 +1,30 @@
+# Abaikan file model zip
+eye_saved_model_1.zip
+
+# Abaikan folder model yang diekstrak
+saved_model_1/
+
+# Abaikan virtual environment
+venv/
+myenv/
+
+# Abaikan file notebook checkpoint
+.ipynb_checkpoints/
+
+# Abaikan file log TensorFlow
+*.pbtxt
+*.tflite
+*.pb
+
+# Abaikan TensorFlow library
+venv/lib/python3.13/site-packages/tensorflow/
+venv/lib/python3.13/site-packages/gradio/
+
+# Abaikan file besar lainnya
+# notebooka29deb3376(1).ipynb
+.git/objects/
+
+# Tambahan untuk mengabaikan file sementara
+*.log
+*.tmp
+.DS_Store
